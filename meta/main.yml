@@ -1,0 +1,15 @@
+galaxy_info:
+  author: Isaac Kehle <twitter.com/isaackehle>
+  role_name: mongodb_local_replica_set
+  description: Manage a Local MongoDB installation as a Replica Set
+  company: isaackehle
+  license: MIT
+  min_ansible_version: 2.8.x
+  platforms:
+    - name: MacOS
+      versions:
+        - all
+  galaxy_tags:
+    - system
+    - mongodb
+dependencies: []
